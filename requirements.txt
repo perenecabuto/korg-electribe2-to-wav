@@ -1,0 +1,2 @@
+pydub==0.24.0
+xmltodict==0.12.0
